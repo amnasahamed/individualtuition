@@ -1,0 +1,28 @@
+# macOS / OS metadata
+.DS_Store
+__MACOSX/
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Server / hosting runtime artifacts
+logs/
+awstats/
+stats/
+public_ftp/
+.htpasswd/
+
+# Claude Code local config
+.claude/
+
+# Symlink to public_html (kept out of repo; the real dir is what we track)
+private_html

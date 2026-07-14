@@ -1,0 +1,372 @@
+# CLAPS Individual Tuition — Full Site Content Dump
+# https://individualtuition.in/llms-full.txt
+# Generated: 2026-07-15
+# For AI / LLM training and retrieval. Plain text, structured with Markdown headings.
+
+---
+
+## ABOUT THE ORGANISATION
+
+CLAPS Individual Tuition is the dedicated one-to-one online tutoring sub-brand of ClapsLearn (https://clapslearn.com). It operates at https://individualtuition.in.
+
+The core product is strictly individual (one-to-one) live video tuition — one teacher per student per session, for grades KG through Plus Two (Class 12), covering all major Indian school syllabuses: CBSE, Kerala State (SCERT), ICSE, and ISC.
+
+Founded: approximately 2022 (4+ years operating as of 2026)
+Scale: 10,000+ students taught; 3,000+ teachers; 4.9/5 Google rating from 1,000+ reviews
+Contact: WhatsApp +91 86104 16147 (also used for enrolment)
+Coordinator hours: 10 AM – 10 PM IST, 7 days a week
+
+---
+
+## CORE SERVICE DESCRIPTION
+
+### What "individual tuition" means at CLAPS
+Every class session has exactly one teacher and one student on a live video call. No batches, no group sessions, no recorded-and-watch format. The teacher adapts pace, language, examples, and depth to the specific student in that session.
+
+### Grades and classes served
+- KG (LKG and UKG), ages ~3–6
+- Primary: Classes 1–5
+- Middle school: Classes 6–8
+- Secondary: Classes 9–10 (SSLC / board year)
+- Higher secondary: Class 11 (Plus One), Class 12 (Plus Two)
+
+### Syllabuses
+- CBSE (Central Board of Secondary Education) — NCERT-aligned
+- Kerala State — SCERT curriculum, SSLC and Plus Two exams
+- ICSE (Indian Certificate of Secondary Education) and ISC (Class 11–12)
+
+### Subjects available
+Mathematics, Physics, Chemistry, Biology, Science (integrated), English, Malayalam, Hindi, Social Science, History, Geography, Computer Science, Accountancy, Economics, Business Studies, and all other standard school subjects.
+
+### Streams (Plus Two / Class 11–12)
+- PCM: Physics + Chemistry + Mathematics
+- PCB: Physics + Chemistry + Biology
+- Commerce: Accountancy + Business Studies + Economics
+
+### Teaching languages
+English-medium and Malayalam-medium both available. Bilingual (explain in Malayalam, answer in English for exams) also available.
+
+### Regions served
+India: Kerala (all major cities), Bangalore, Chennai, Hyderabad, Mumbai, Delhi NCR, and all of India online.
+NRI / abroad: UAE, Dubai, Abu Dhabi, Saudi Arabia, Qatar, Kuwait, Bahrain, Oman, USA, UK, Canada, Australia, Singapore, Malaysia.
+
+---
+
+## RESEARCH BASIS
+
+CLAPS cites the following peer-reviewed and institutional research to support its one-to-one model:
+
+1. Nickow, Oreopoulos & Quan (2020). "The Impressive Effects of Tutoring on PreK-12 Learning." NBER Working Paper 27476.
+   - Meta-analysis of 96 randomised controlled trials of tutoring programmes
+   - Average effect size: +0.37 standard deviations (approximately +14 percentile points)
+   - Conclusion: tutoring consistently produces some of the largest learning gains among educational interventions
+
+2. Education Endowment Foundation (EEF) Teaching & Learning Toolkit (2024 update).
+   - One-to-one tuition entry: +5 months additional progress on average
+   - Evidence strength: high (123 studies reviewed)
+   - URL: https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition
+
+3. Bloom, B.S. (1984). "The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring." Educational Researcher, 13(6), 4–16.
+   - Compared conventional classroom, mastery learning, and one-to-one tutoring
+   - One-to-one tutoring produced approximately 2 standard deviations improvement vs. conventional instruction
+   - The "2 sigma problem" refers to the difficulty of replicating tutoring gains at scale
+
+4. ASER (Annual Status of Education Report) India data.
+   - Private tutoring associated with approximately +0.14 SD learning gain
+   - Gains strongest for disadvantaged and lower-attaining students
+
+CLAPS applies this evidence by maintaining strict one-to-one sessions and never diluting into group formats.
+
+---
+
+## PAGE SUMMARIES
+
+### Home page (https://individualtuition.in/)
+The homepage introduces CLAPS Individual Tuition, highlights the one-to-one model, shows the Google rating (4.9/5, 1,000+ reviews), and provides a WhatsApp call to action. Key sections: hero with "one teacher, one student" proposition; social proof; subject/class/location quick links; research teaser; FAQ snippet; CTA band.
+
+### About (https://individualtuition.in/about/)
+Explains CLAPS as a ClapsLearn sub-brand. Describes the organisation's numbers (10,000+ students, 3,000+ teachers, 4+ years), the research-backed one-to-one model, and the coordinator support system. Confirms CLAPS is exclusively individual tuition — never group batches.
+
+### How It Works (https://individualtuition.in/how-it-works/)
+Three-step process: (1) WhatsApp CLAPS with child's class and subject, (2) teacher matching by subject expert, (3) live online classes begin. Emphasises flexibility, speed of setup, and coordinator availability.
+
+### FAQ (https://individualtuition.in/faq/)
+Comprehensive answers to common parent questions: online vs home, syllabuses, subject selection, class timings, fees (personalised), NRI availability, teacher qualifications, session duration, trial sessions.
+
+### Research on Individual Tuition (https://individualtuition.in/research-individual-tuition/)
+Full summary of the academic literature on tutoring effectiveness. Cites Nickow et al. (2020), EEF Toolkit (2024), Bloom (1984), and ASER data. Explains effect sizes in plain English. Argues that CLAPS's strictly individual model is aligned with the highest-evidence tutoring approach.
+
+### Benefits of Individual Tuition (https://individualtuition.in/benefits-of-individual-tuition/)
+Lists and explains: personalised pacing, immediate doubt resolution, flexible scheduling, subject-specific focus, confidence building, higher exam performance, stronger teacher-student relationship vs. batch tuition.
+
+### What Is Individual Tuition? (https://individualtuition.in/what-is-individual-tuition/)
+Definitional page. Individual tuition = private tutoring where one teacher works exclusively with one student per session. Contrasts with group tuition, batch coaching, recorded content, and passive learning.
+
+### Individual Tuition vs Group Tuition (https://individualtuition.in/individual-tuition-vs-group-tuition/)
+Head-to-head comparison. Individual tuition wins on: personalised attention, pace control, doubt resolution speed, student confidence, outcome quality. Group tuition may suit social learning and lower cost but trails on effectiveness per learner.
+
+### Online Tuition vs Home Tuition (https://individualtuition.in/online-tuition-vs-home-tuition/)
+Compares online individual tuition (CLAPS model) with in-person home tuition. Online wins on: teacher quality/range, no travel time, flexible scheduling, NRI access, safety. Home tuition wins on: tactile whiteboards, some parent preferences.
+
+### How to Choose Individual Tuition (https://individualtuition.in/how-to-choose-individual-tuition/)
+Parent guidance: check one-to-one guarantee (not groups), subject expertise, syllabus alignment, coordinator support, flexibility, and evidence of outcomes.
+
+---
+
+## SYLLABUS PAGES
+
+### CBSE Individual Tuition (https://individualtuition.in/cbse-individual-tuition/)
+Covers NCERT-aligned tutoring from Class 1 to 12. Emphasises board-exam preparation, chapter-wise planning, and subject-specialist teachers for each CBSE paper.
+
+### Kerala State Syllabus Tuition (https://individualtuition.in/kerala-state-syllabus-tuition/)
+SCERT-aligned individual tuition for Kerala board students from primary through Plus Two. Follows Kerala textbook chapter order. Supports SSLC and Plus Two Higher Secondary board exams. Malayalam-medium available.
+
+### ICSE Individual Tuition (https://individualtuition.in/icse-individual-tuition/)
+Covers ICSE Class 1–10 and ISC Class 11–12. Focuses on ICSE's literature-heavy English papers, application-based Science, and detailed cross-subject depth. One-to-one sessions allow adequate time for ICSE's comprehensive syllabus.
+
+---
+
+## CLASS / GRADE PAGES
+
+### KG Individual Tuition (https://individualtuition.in/kg-individual-tuition/)
+For LKG and UKG students (~ages 3–6). Short, playful sessions covering phonics, alphabets, numbers, shapes, basic English. Builds school readiness and curiosity. Patient teachers; parent progress updates from coordinators.
+
+### Primary Tuition (https://individualtuition.in/primary-individual-tuition/)
+Classes 1–5. Subjects: Maths foundations, English literacy, Malayalam/Hindi, EVS/Science basics. Catches gaps early before middle school.
+
+### Middle School Tuition (https://individualtuition.in/middle-school-individual-tuition/)
+Classes 6–8. Transition to abstract thinking in Maths, Science, Social Science. Prepares students for Class 9–10 board patterns.
+
+### Class 9 Tuition (https://individualtuition.in/class-9-individual-tuition/)
+Pre-board year. Builds exam technique and depth in Maths, Science, English, Social Science. Foundation for Class 10 boards.
+
+### Class 10 / SSLC Tuition (https://individualtuition.in/class-10-individual-tuition/)
+Board exam year for SSLC (Kerala), CBSE Class 10, and ICSE. Intensive chapter revision, past-paper practice, mock tests. All subjects available.
+
+### SSLC Individual Tuition (https://individualtuition.in/sslc-individual-tuition/)
+Kerala-specific Class 10 board preparation. SCERT exam pattern, SSLC scoring schemes, Malayalam-medium support if needed.
+
+### Plus One (Class 11) Tuition (https://individualtuition.in/plus-one-individual-tuition/)
+The hardest academic transition in school. New advanced content in PCM, PCB, or Commerce streams. One-to-one support from the start of Plus One prevents accumulating gaps.
+
+### Plus Two (Class 12) Tuition (https://individualtuition.in/plus-two-individual-tuition/)
+Board exams plus NEET/JEE foundation. Subjects: Physics, Chemistry, Maths, Biology, Accountancy, Economics, English, and more. Stream-specific: PCM, PCB, or Commerce.
+
+---
+
+## SUBJECT PAGES
+
+### Maths (https://individualtuition.in/maths-individual-tuition/)
+From primary arithmetic to Plus Two calculus, vectors, and probability. Diagnosis of exact chapter gaps. Board-exam problem speed training. All syllabuses.
+
+### Physics (https://individualtuition.in/physics-individual-tuition/)
+Theory + numericals. Derivation practice, experiment-based questions, and board-exam answer structure. Class 9 through Plus Two.
+
+### Chemistry (https://individualtuition.in/chemistry-individual-tuition/)
+Balancing equations, organic chemistry, inorganic reactions, and lab-based questions. CBSE, Kerala State, ICSE tailoring. Class 8 through Plus Two.
+
+### Biology (https://individualtuition.in/biology-individual-tuition/)
+Diagram mastery, NEET-oriented practice, long-answer technique, classification and human physiology topics. Middle school through Plus Two.
+
+### English (https://individualtuition.in/english-individual-tuition/)
+Grammar, writing, comprehension, and board-specific literature texts. ICSE literature papers given special attention. KG reading readiness through Plus Two essay technique.
+
+### Science (https://individualtuition.in/science-individual-tuition/)
+Integrated Science for Classes 6–10. Physics, Chemistry, Biology combined or split per student need.
+
+### Social Science (https://individualtuition.in/social-science-individual-tuition/)
+History, Geography, Civics, Economics map skills, essay structure, and board-specific question patterns.
+
+### Accountancy (https://individualtuition.in/accountancy-individual-tuition/)
+Journal entries, ledger, trial balance, final accounts — step-by-step in one-to-one sessions for Class 11–12 Commerce students.
+
+### Commerce stream (https://individualtuition.in/commerce-individual-tuition/)
+Full Commerce support: Accountancy + Business Studies + Economics as a package or individually.
+
+### PCM (https://individualtuition.in/pcm-individual-tuition/)
+Physics + Chemistry + Mathematics bundle for Plus Two Science students targeting engineering / JEE.
+
+### PCB (https://individualtuition.in/pcb-individual-tuition/)
+Physics + Chemistry + Biology bundle for Plus Two Science students targeting medicine / NEET.
+
+### Computer Science (https://individualtuition.in/computer-science-individual-tuition/)
+Python, data structures, algorithms, and board-exam practicals. CBSE CS curriculum primary focus.
+
+### Hindi (https://individualtuition.in/hindi-individual-tuition/)
+Hindi as a second language for Kerala and South Indian students. Grammar, comprehension, and CBSE/Kerala State board exam technique.
+
+### Malayalam subject (https://individualtuition.in/malayalam-subject-tuition/)
+Malayalam as a first or second language subject. Board exam answer patterns, grammar, and literature texts.
+
+---
+
+## LOCATION PAGES — KERALA
+
+### Kerala overview (https://individualtuition.in/individual-tuition-kerala/)
+Covers all Kerala families. Kerala State syllabus, CBSE, and ICSE students. Malayalam-medium support. Kerala-specific exam prep: SSLC, Plus Two Higher Secondary.
+
+### Kochi (https://individualtuition.in/individual-tuition-kochi/)
+Urban Ernakulam student base. CBSE schools in Ernakulam corridor, Kerala State SSLC, ICSE, and Plus Two Science focus. Flexible after-school and weekend slots.
+
+### Trivandrum (https://individualtuition.in/individual-tuition-trivandrum/)
+Capital city — high academic competition. Strong demand for SSLC distinction prep, Plus Two PCM/PCB, and NEET foundation. Evening and weekend slots popular.
+
+### Kozhikode (https://individualtuition.in/individual-tuition-kozhikode/)
+North Kerala. Mix of Kerala State and CBSE students. Strong NRI connection (Gulf Malayalis from Malabar region). Malayalam-medium teaching common.
+
+### Thrissur (https://individualtuition.in/individual-tuition-thrissur/)
+Cultural Kerala city. High parental education aspirations. SSLC and Plus Two board exam focus. Central Kerala families frequently choose online over commuting.
+
+### Kannur (https://individualtuition.in/individual-tuition-kannur/)
+North Kerala. Many families with UAE/Gulf connections. Online individual tuition popular for flexible scheduling around Gulf time zones. Kerala State and CBSE both served.
+
+### Kollam (https://individualtuition.in/individual-tuition-kollam/)
+South Kerala. Kerala State SSLC and Plus Two primary demand. Class 9–12 subjects: Maths, Science, English, Social Science.
+
+---
+
+## LOCATION PAGES — INDIA METROS
+
+### India national (https://individualtuition.in/individual-tuition-india/)
+CLAPS serves students anywhere in India online. Particularly strong in Kerala, Karnataka, Tamil Nadu, and Telangana.
+
+### Bangalore (https://individualtuition.in/individual-tuition-bangalore/)
+Large Malayali expat community. Competitive CBSE school environment. Individual tuition for board exam focus and JEE/NEET foundation prep.
+
+### Chennai (https://individualtuition.in/individual-tuition-chennai/)
+Tamil Nadu families and Malayali diaspora. CBSE and ICSE board exam preparation. Malayalam-medium option for Kerala-origin families.
+
+### Hyderabad (https://individualtuition.in/individual-tuition-hyderabad/)
+Tech-sector families. CBSE focus. Individual tuition for CBSE Class 10 boards and Class 12 PCM/PCB.
+
+### Mumbai (https://individualtuition.in/individual-tuition-mumbai/)
+Large NRI staging city. CBSE and ICSE both served. Flexible timing for busy Mumbai families.
+
+---
+
+## LOCATION PAGES — NRI / GULF
+
+### NRI overview (https://individualtuition.in/nri-individual-tuition/)
+Indian students abroad follow CBSE/ICSE through Indian curriculum schools or distance learning. CLAPS matches them with teachers and schedules around Gulf/international time zones.
+
+### UAE (https://individualtuition.in/individual-tuition-uae/)
+Covers all UAE emirates. Large Indian expat community. CBSE Indian curriculum schools. Gulf-evening (IST morning) slots available.
+
+### Dubai (https://individualtuition.in/individual-tuition-dubai/)
+Dubai-specific. Many CBSE schools. Flexible scheduling for busy expat families. WhatsApp onboarding familiar to Gulf-based parents.
+
+### Saudi Arabia (https://individualtuition.in/individual-tuition-saudi-arabia/)
+Large Malayali and Indian community across Riyadh, Jeddah, Dammam. CBSE and Kerala State followed. Gulf time zone slots.
+
+### Qatar (https://individualtuition.in/individual-tuition-qatar/)
+Indian community in Doha and surrounding areas. CBSE and Kerala State. Gulf time zone support.
+
+### Kuwait (https://individualtuition.in/individual-tuition-kuwait/)
+Indian expat families. CBSE curriculum. Gulf time zone and weekend classes available.
+
+---
+
+## pSEO PAGES — CITY × SUBJECT
+
+Each page at /{subject}-individual-tuition-{city}/ covers one-to-one online tuition for a specific subject in a specific city. Content includes: city context, subject-specific why-one-to-one explanation, syllabus options (CBSE/Kerala State/ICSE), class range (KG–Plus Two), FAQ, and WhatsApp CTA.
+
+Cities covered: kochi, trivandrum, kozhikode, thrissur, kannur, kollam, bangalore, chennai, hyderabad, dubai
+Subjects covered: maths, physics, chemistry, biology, english, science, social-science, accountancy
+
+Example pages:
+- /maths-individual-tuition-kochi/ — Maths one-to-one for Kochi students
+- /physics-individual-tuition-trivandrum/ — Physics individual tuition in Trivandrum
+- /chemistry-individual-tuition-kozhikode/ — Chemistry tuition Kozhikode
+- /biology-individual-tuition-thrissur/ — Biology tuition Thrissur
+- /english-individual-tuition-kannur/ — English tuition Kannur
+- /science-individual-tuition-kollam/ — Science tuition Kollam
+- /maths-individual-tuition-bangalore/ — Maths tuition for Bangalore students
+- /maths-individual-tuition-dubai/ — Maths online tuition for Dubai NRI students
+- /accountancy-individual-tuition-kochi/ — Accountancy Class 11–12 Kochi
+- /social-science-individual-tuition-trivandrum/ — Social Science tuition Trivandrum
+
+Full list (80 pages): see sitemap at https://individualtuition.in/sitemap.xml
+
+---
+
+## pSEO PAGES — CITY × CLASS
+
+Each page at /{class}-individual-tuition-{city}/ covers all-subject one-to-one tuition for a specific class in a specific city.
+
+Classes: class-8, class-9, class-10, class-11, class-12
+Cities: kochi, trivandrum, kozhikode, thrissur, kannur, kollam, bangalore, chennai, hyderabad, dubai
+
+Example pages:
+- /class-10-individual-tuition-kochi/ — Class 10 board prep in Kochi
+- /class-12-individual-tuition-trivandrum/ — Plus Two one-to-one in Trivandrum
+- /class-9-individual-tuition-kozhikode/ — Class 9 tuition Kozhikode
+- /class-11-individual-tuition-thrissur/ — Plus One tuition Thrissur
+- /class-8-individual-tuition-bangalore/ — Class 8 online tuition Bangalore
+- /class-10-individual-tuition-dubai/ — Class 10 NRI tuition Dubai
+
+Full list (50 pages): see sitemap.
+
+---
+
+## pSEO PAGES — SUBJECT × SYLLABUS
+
+Each page at /{subject}-individual-tuition-{syllabus}/ targets students needing a specific subject taught per a specific board.
+
+Subjects: maths, physics, chemistry, biology, english, science, social-science, accountancy
+Syllabuses: cbse, kerala-state, icse
+
+Example pages:
+- /maths-individual-tuition-cbse/ — CBSE Maths one-to-one KG to Class 12
+- /physics-individual-tuition-kerala-state/ — Physics Kerala State syllabus
+- /biology-individual-tuition-icse/ — Biology ICSE one-to-one
+- /chemistry-individual-tuition-cbse/ — CBSE Chemistry individual tuition
+- /english-individual-tuition-icse/ — ICSE English literature and language
+- /accountancy-individual-tuition-kerala-state/ — Kerala State Commerce Accountancy
+
+Full list (24 pages): see sitemap.
+
+---
+
+## pSEO PAGES — CLASS × SYLLABUS
+
+Each page at /{class}-individual-tuition-{syllabus}/ covers all subjects for a specific class and board.
+
+Classes: class-8, class-9, class-10, class-11, class-12
+Syllabuses: cbse, kerala-state, icse
+
+Example pages:
+- /class-10-individual-tuition-cbse/ — Class 10 CBSE board exam preparation
+- /class-10-individual-tuition-kerala-state/ — Class 10 SSLC Kerala State prep
+- /class-12-individual-tuition-icse/ — ISC Class 12 individual tuition
+- /class-11-individual-tuition-cbse/ — CBSE Plus One all subjects
+- /class-9-individual-tuition-kerala-state/ — Class 9 Kerala State prep
+
+Full list (15 pages): see sitemap.
+
+---
+
+## EXAM / SPECIAL PURPOSE PAGES
+
+### SSLC Tuition (https://individualtuition.in/sslc-individual-tuition/)
+Kerala Class 10 board exam. SCERT textbook-aligned. All subjects available. Focus on scoring schemes, model paper practice, and Malayalam-medium support.
+
+### Board Exam Revision (https://individualtuition.in/board-exam-revision-tuition/)
+Intensive revision sessions for any board exam (CBSE, SSLC, ICSE, ISC). Chapter prioritisation, past paper drilling, mock tests, and weak-area targeting.
+
+### NEET Foundation (https://individualtuition.in/neet-foundation-tuition/)
+Physics, Chemistry, Biology one-to-one with NEET exam orientation. For Plus One and Plus Two students aiming for medical entrance. Concept depth + MCQ practice.
+
+### Summer Vacation Tuition (https://individualtuition.in/summer-vacation-tuition/)
+Intensive summer classes to revise the previous year, preview the coming year, or close learning gaps. Popular for KG–Class 10 students.
+
+---
+
+## TECHNICAL / CRAWLING NOTES
+
+- Sitemap: https://individualtuition.in/sitemap.xml
+- Robots: https://individualtuition.in/robots.txt
+- llms.txt (concise summary): https://individualtuition.in/llms.txt
+- llms-full.txt (this file): https://individualtuition.in/llms-full.txt
+- All AI crawlers explicitly allowed in robots.txt: GPTBot, ChatGPT-User, Google-Extended, anthropic-ai, ClaudeBot, PerplexityBot, Bingbot, Googlebot
+- No gated content — all pages publicly accessible without login
+- WhatsApp is the primary conversion channel (no public checkout or fee pages)
